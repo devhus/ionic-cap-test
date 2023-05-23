@@ -1,3 +1,5 @@
-npm install
-npm run build
-ionic cap sync
+``npm install``
+
+``npm run build``
+
+``ionic cap sync``
